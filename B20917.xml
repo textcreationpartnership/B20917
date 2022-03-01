@@ -1,0 +1,573 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The union of Christ and the church, in a shadow by R.C.</title>
+            <author>Cudworth, Ralph, 1617-1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B20917</idno>
+            <idno type="STC">Wing C7472</idno>
+            <idno type="STC">ESTC R22662</idno>
+            <idno type="EEBO-CITATION">12743611</idno>
+            <idno type="OCLC">ocm 12743611</idno>
+            <idno type="VID">181308</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B20917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181308)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 959:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The union of Christ and the church, in a shadow by R.C.</title>
+                  <author>Cudworth, Ralph, 1617-1688.</author>
+               </titleStmt>
+               <extent>35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Bishop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ.</term>
+               <term>Church --  Foundation.</term>
+               <term>Christianity --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181308:1" rendition="simple:additions"/>
+            <pb facs="tcp:181308:1" rendition="simple:additions"/>
+            <p>THE UNION OF CHRIST AND THE CHURCH; In a Shadow. By <hi>R. C.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for RICHARD BISHOP. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:181308:2"/>
+            <pb n="1" facs="tcp:181308:2"/>
+            <head>The Union OF CHRIST AND THE CHVRCH Shadowed.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is ordinary in matters both of Practice and Opinion, for men when they turn from one extreme, to run too far upon the other, by an <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as Saint <hi>Baſil</hi> calls it. And I wiſh ſome Divines had not been ſurprized a little with this deceit, as in ſome other things, ſo in the Theologicall con<g ref="char:EOLhyphen"/>ſideration of the nature of MARRIAGE: and whilſt they have been carried by an heat of oppo<g ref="char:EOLhyphen"/>ſition againſt that fond Tenet of the Papiſts, of ſeven Sacraments conferring Grace <hi>ex opere opera<g ref="char:EOLhyphen"/>to,</hi> (whereof we have deſervedly rejected all but two) they had not in the mean time neglected, and paſſed over without any obſervation, that <hi>Myſticall Notion</hi> which is contained in it.</p>
+            <p>Which leſt I ſhould ſeem raſhly and ungroun<g ref="char:EOLhyphen"/>dedly to affirme, I will firſt lay down, as the Foun<g ref="char:EOLhyphen"/>dation
+<pb n="2" facs="tcp:181308:3"/>of my Diſcourſe, a Paragraph of St. <hi>Pauls</hi> Epiſtle to the <hi>Epheſians,</hi> in the fifth Chapter, from the 22 verſe to the 33.</p>
+            <p n="22">22 <hi>Wives, ſubmit your ſelves unto your owne huſ<g ref="char:EOLhyphen"/>bands, as unto the Lord.</hi>
+            </p>
+            <p n="23">23 <hi>For the husband is the head of the wife, as Chriſt is the head of the Church: and he is the Saviour of the body.</hi>
+            </p>
+            <p n="24">24 <hi>Therefore as the Church is ſubject unto Christ, ſo let the wives be to their owne husbands in every thing.</hi>
+            </p>
+            <p n="25">25 <hi>Husbands love your wives, even as Chriſt alſo loved the Church, and gave himſelfe for it.</hi>
+            </p>
+            <p n="26">26 <hi>That he might ſanctifie and cleanſe it, with the waſhing of water by the word.</hi>
+            </p>
+            <p n="27">27 <hi>That he might preſent it to himſelf a glorious Church, not having ſpot or wrinckle or any ſuch thing: but that it ſhould be holy and without blemiſh.</hi>
+            </p>
+            <p n="28">28 <hi>So ought men to love their wives, as their owne bodies; he that loveth his wife loveth himſelf.</hi>
+            </p>
+            <p n="29">29 <hi>For no man ever yet hated his owne fleſh, but nouriſheth and cheriſheth it, even as the Lord the Church.</hi>
+            </p>
+            <p n="30">30 <hi>For we are members of his body, of his fleſh, and of his bones.</hi>
+            </p>
+            <p n="31">31 <hi>For this cauſe ſhall a man leave his Father and Mother, and cleave to his wife, and they two ſhall be one fleſh.</hi>
+            </p>
+            <p n="32">32 <hi>This is a great mystery, but I ſpeak concerning Chriſt and the Church.</hi>
+            </p>
+            <pb n="3" facs="tcp:181308:3"/>
+            <p>It is very cleare to any one that is of an impar<g ref="char:EOLhyphen"/>tiall judgment, and doth not <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Greeks ſpeak, <hi>Serve ſome hypotheſis already taken up,</hi> That the Apoſtle in theſe words doth not onely ſuppoſe a bare Similitude between the union of Man and Wife by Marriage, and the myſticall union of Chriſt and the Church, and thence com<g ref="char:EOLhyphen"/>pare them together, as there is a ſimilitude between the Kingdome of Heaven and a Grain of Muſtard ſeed: But that he makes one to be a <hi>Reall Type</hi> of the other, and the other an <hi>Archetypall Copy,</hi> accor<g ref="char:EOLhyphen"/>ding to which, that was limmed and drawn out. As the Platoniſts uſe to ſay, concerning ſpirituall and materiall things, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, That materiall things are but Ectypall Reſemblan<g ref="char:EOLhyphen"/>ces and Imitations of ſpirituall things, which were the Firſt, Primitive, and Archetypall Beings. And as a deep contemplator of Truth, ſhall find no<g ref="char:EOLhyphen"/>thing more obvious then that of <hi>Reuchline, Deum ſolere uno ſigillo varias materias ſignare,</hi> That God often prints the ſame Seal upon ſeverall matters: Which divers Signatures from one and the ſame Seal of God, our late noble Vicount of St. Albans calls, <hi>Parallela Signacula,</hi> and <hi>Symbolizantes Schema<g ref="char:EOLhyphen"/>tiſmos,</hi> having found out divers inſtances of them in Nature, which he concluded, were not <hi>Merae ſimi<g ref="char:EOLhyphen"/>litudines</hi> (as the Vulgar perhaps might imagine) But <hi>una eademque Naturae vestigia, diverſis mate<g ref="char:EOLhyphen"/>riis &amp; ſubject is impreſſa.</hi> Neither were the anci<g ref="char:EOLhyphen"/>ent Hebrewes unaquainted with this Notion, which ſeemeth indeed to have been the true foun<g ref="char:EOLhyphen"/>dation of all their CABALA, as I ſhall ſhew
+<pb n="4" facs="tcp:181308:4"/>hereafter: For I find it happily expreſſed by one of thoſe Doctors in this manner, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. <hi>All the Three worlds were printed with the ſame Print, and ſealed with the ſame Seale, and that which is ſealed and receiveth the Si<g ref="char:EOLhyphen"/>gillation here below, is like to the Shape and Forme of thoſe things above, which did ſeal and ſtamp the Signa<g ref="char:EOLhyphen"/>ture upon them:</hi> By theſe three<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> worlds they mean three ſeverall and graduall Emanations of Crea<g ref="char:EOLhyphen"/>tures from God in the World, one below another, upon all which, they ſay, God ſet his Seal of<note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Mundus ema<g ref="char:EOLhyphen"/>nationis, ſive Mundus Ar<g ref="char:EOLhyphen"/>chetypus.</note> SE<g ref="char:EOLhyphen"/>PHIROTH ſo hard, that he printed quite thorow the bottome of them.</p>
+            <p>In like manner I conceive God having framed that excellent Plot of the Goſpel, and therein contrived the Myſticall union between Chriſt and the Church, delighted to draw ſome Shadowings and Adumbrations of it here below, and ſet the Seale of that Truth upon theſe Materiall things, that ſo it might print the ſame ſtamp and Idaea, though upon baſer matter; and thence aroſe the inſtitution of Man and Wife here below: al<g ref="char:EOLhyphen"/>though indeed Chriſt and the Church be <hi>Spon<g ref="char:EOLhyphen"/>ſus &amp; Sponſa Archetypi,</hi> and this Man and Wife which we ſpeak of are but <hi>Sponſus &amp; Sponſa Ectypi.</hi>
+            </p>
+            <p>But for our better and more orderly procee<g ref="char:EOLhyphen"/>ding, I ſhall obſerve three things eſpecially, which I ſhall inſiſt upon, from theſe words alledged.</p>
+            <p>Firſt, that <hi>The Vnion of Man and Wife is a Type of
+<pb n="5" facs="tcp:181308:4"/>the Vnion between Chriſt and the Church, which is the Architype.</hi>
+            </p>
+            <p>Secondly, that <hi>the making of</hi> Eve <hi>at firſt out of</hi> Adam, <hi>and then the uniting of both again by marri<g ref="char:EOLhyphen"/>age into one, in Paradiſe, was all Typicall of Chriſt the Second</hi> Adam, <hi>and his Wife the Church.</hi>
+            </p>
+            <p>Thirdly, <hi>How and in what reſpects the Marriage of Man and Wife doth Typically ſignifie the Vnion be<g ref="char:EOLhyphen"/>tween Chriſt and the Church.</hi>
+            </p>
+            <p>For the Firſt, That the union between Man and Wife is a Type, whereof Chriſt and the Church is the Archetype. This I prove from the whole ſcope of this place, where the Apoſtle falling up<g ref="char:EOLhyphen"/>on Oeconomicall duties, and firſt thoſe between Man and Wife, he derives them wholly, and brings the reaſons of them, from the Relation between the Church and Chriſt, ſuppoſing that to be the Copy and Archetype, to which the Relation of Man and Wife is to be conformed.</p>
+            <p>Firſt he begins with the duty of the Woman verſ. 22. <hi>Wives ſubmit your ſelves to your Husbands,</hi> As UNTO THE LORD, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Sicut <hi>Domi<g ref="char:EOLhyphen"/>no noſtro,</hi> ſaith the Syriack, <hi>i.e.</hi> The Lord Chriſt. For the true meaning is, As beholding a Type of Chriſt in your Husbands, ſubmit your ſelves to them; and this a Popiſh Interpreter well obſerved, <hi>In viris vestris conſiderantes Chriſtum Dominum, qui est caput &amp; ſponſus Eccleſiae.</hi> So the following Verſes expound it; <hi>For the husband is the head of the wife, as Chriſt is the head of the Church:</hi> THERE<g ref="char:EOLhyphen"/>FORE <hi>as the Church is ſubject unto Chriſt, ſo let the wives be ſubject to their husbands in all things.</hi>
+               <pb n="6" facs="tcp:181308:5"/>To phancy nothing here, but a bare Similitude betweene man and wife, Chriſt and the Church, were to make S. <hi>Pauls</hi> diſcourſe to be very dilute.</p>
+            <p>Then he comes to the duty of the Husband, verſ. 25. which he drawes likewiſe from the man<g ref="char:EOLhyphen"/>ner of Chriſts behaviour to the Church. <hi>Huſ<g ref="char:EOLhyphen"/>bands love your wives, as Chriſt loved the Church, and gave himſelfe for it,</hi> and ſo onward to the 28. verſe; where he ſhewes, that as the Wife was to honour the Husband as her Head, becauſe Chriſt was the head of the Church, ſo the Husband was to love the Wife as his body, becauſe the Church is the body of Chriſt, <hi>verſ.</hi> 28, 29, 30, 31.</p>
+            <p>And then in the cloſe of all he gives an accompt why he had uſed this Parallel all along. <hi>For this cauſe ſhall a man leave Father and Mother and cleave to his wife, and they two ſhall be one fleſh. This is a great Mystery, I ſpeak of Chriſt and the Church;</hi> that is, becauſe The Vnion between Chriſt and the Church, thus Adumbrated and Shadowed out in the Vnion of Man and Wife is a great Myſtery. For this ſenſe the very connexion it ſelfe doth ſuffici<g ref="char:EOLhyphen"/>ently imply.</p>
+            <p>I will now come to ſhew how well this doctrine was underſtood among the ancient Jewes, eſpeci<g ref="char:EOLhyphen"/>ally by the MASTERS of the CABALA; which is a kind of ſecret and myſticall Divinity remaining in part yet amongſt them, that is almoſt wholly built (if I miſtake not) upon this one foundation, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>i.e.</hi> That every thing which is below, hath ſome ROOT above. Wherefore they call
+<pb n="7" facs="tcp:181308:5"/>theſe inferiour things, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Branches,</hi> and the Sephiroth above, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Roots.</hi> Now they tell us that the Vnion between Man &amp; Wife here below, is but <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a <hi>Branch</hi> of the myſticall Vnion between Tiphèret and Malcuth above, which is the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>Root</hi> of it. And theſe Tipheret and Malcuth, are two of thoſe ten Sephiroth, or Emana<g ref="char:EOLhyphen"/>tions of<note n="†" place="margin">For the Ety<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of the word Sephi<g ref="char:EOLhyphen"/>roth is derived from <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Sa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phirus,</hi> by the Author of <hi>Shaa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Ora<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tae <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </note> Light above, in the Archetypall world, which are the ſame Originally, that <hi>Sponſus</hi> and <hi>Sponſa</hi> are Derivatively and Typically here be<g ref="char:EOLhyphen"/>low. Now that we may ſee who theſe were, and that they meant nothing elſe by them, but that which we call God or Chriſt, and the Church, al<g ref="char:EOLhyphen"/>though expreſſed in a little more Metaphyſicall manner, let us examine further what they ſay con<g ref="char:EOLhyphen"/>cerning them. <hi>Archangelus de Burgo Novo,</hi> a man well skilled in this faculty, ſpeaks thus of them ac<g ref="char:EOLhyphen"/>cording to the mind of thoſe profound Doctors. <hi>Secundum Cabaliſtas duae Veneres ſunt Tipheret &amp; Malcuth, quae dicuntur duo amores, etſi ſint unus amor per reciprocationem, unde Solomon in Canticis Spon<g ref="char:EOLhyphen"/>ſum Tipheret, &amp; Sponſum Malcuth introducit ad in<g ref="char:EOLhyphen"/>vicem loquentes.</hi> Where we ſee that they expound the Song of <hi>Solomon</hi> concerning theſe two, which every one knowes is a Love-Song betweene the Church and Chriſt. But to cleare it further, we muſt obſerve that this Malcuth, which is <hi>Sponſa,</hi> is otherwiſe called by them Chenèſeth Iſrael, and Beth Iſrael, that is, <hi>Congregatio Iſraelis,</hi> and <hi>Do<g ref="char:EOLhyphen"/>mus Iſraelis,</hi> (for ſo it is uſuall with theſe Authors to expreſſe one and the ſame Sephirah by divers names, for fuller explication ſake.) So the lear<g ref="char:EOLhyphen"/>ned
+<pb n="8" facs="tcp:181308:6"/>Authour of that Diſcourſe whoſe Title is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>Influentia Roris,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. Malcuth is that which is other<g ref="char:EOLhyphen"/>wiſe called <hi>Cheneſeth Iſrael,</hi> or <hi>Congregatio Iſrae<g ref="char:EOLhyphen"/>lis, i.e.</hi> The Church: And Tipheret likewiſe, which is <hi>Sponſus,</hi> is expounded alſo by the ſame Author by <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Adam ſuperior,</hi> in oppo<g ref="char:EOLhyphen"/>ſition to whom the firſt terreſtriall <hi>Adam</hi> is called <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Adam inferior,</hi> and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>A<g ref="char:EOLhyphen"/>dam corporeus.</hi> As alſo in thoſe Cabaliſtick Axi<g ref="char:EOLhyphen"/>oms collected by <hi>Mirandula,</hi> he is called <hi>Magnus Adam,</hi> in theſe words: <hi>Rectius dicitur quod Paradi<g ref="char:EOLhyphen"/>ſus ſit totum aedificium quàm ſit Decima, &amp; in medio ejus collocatus eſt Magnus Adam, qui est Tipheret.</hi> The meaning whereof is, that the terreſtriall Para<g ref="char:EOLhyphen"/>diſe was not onely a Type of the tenth Sephirah, but of the whole Decade of them, becauſe Tiphe<g ref="char:EOLhyphen"/>ret the celeſtiall and Archetypall <hi>Adam,</hi> is placed in the midſt of them, juſt as the terreſtriall <hi>Adam</hi> was created in the midſt of earthly Paradiſe. So that it is cleare, this Tipheret can be nothing elſe but Chriſt the true celeſtiall <hi>Adam,</hi> whom the Scripture ſometimes calls the<note place="margin">The Perſees uſe to call <hi>No<g ref="char:EOLhyphen"/>ah</hi> to this day <hi>Adam Aſſeni,</hi> which is pure Hebrew <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>i.e.</hi> The Second <hi>Adam.</hi>
+               </note> 
+               <hi>Second Adam.</hi> The Authour of <hi>Shephah Tal,</hi> before commended, ſpeaks thus concerning the myſtery of theſe two Sephiroth: <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. <hi>Opera bonorum omnium &amp; justorum, &amp; ſpiritu<g ref="char:EOLhyphen"/>ales eorum intentiones, &amp; preces ſanctae &amp; purae aſ<g ref="char:EOLhyphen"/>cendunt ad Sephiram Malcuth, &amp; Sephira Malcuth
+<pb n="9" facs="tcp:181308:6" rendition="simple:additions"/>adornat ſe illis ut Sponſam, &amp; ſic exhibet ſe coram Tipheret Viro ſuo, &amp; excitat eum ad influendum in eam deorſum.</hi> And again a little after, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Malcuth adornat ſe ut Sponſam, bonis operibus justo<g ref="char:EOLhyphen"/>rum, &amp; per eaexcitat Virum ſuum Tipheret ad influ<g ref="char:EOLhyphen"/>eudum in eam, per Arcanum Facierum.</hi>
+            </p>
+            <p>By all this myſtically deſcribing the Communi<g ref="char:EOLhyphen"/>on between the Church and Chriſt; the Church adorning her ſelf as a Spouſe, by the holineſſe and integrity, and good works of the Saints, that ſo ſhe may pleaſe her Husband, and Chriſt ſen<g ref="char:EOLhyphen"/>ding down the Influence of his Spirit again into the Church. There is an excellent Speech alſo to this purpoſe, in that ancient and famous Caba<g ref="char:EOLhyphen"/>liſtick Book made by <hi>R. Simeon Ben Iochai,</hi> whilſt he lived for the ſpace of 12. yeares in a dark dun<g ref="char:EOLhyphen"/>geon, for feare of the Romane Perſecution in the times of <hi>Trajane,</hi> and therefore called it <hi>Zohar,</hi> that is, <hi>Splendor;</hi> As if he had then ſeen moſt In<g ref="char:EOLhyphen"/>tellectuall Light, when he ſaw leaſt Senſible, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. <hi>Dixit R. Iuda, quando multipli<g ref="char:EOLhyphen"/>cantur merita &amp; bona opera in Mundo, tune Cheneſeth Iſrael exhalat fragrantiſsimos odores, benedicta à Rege ſancto, &amp; facies ejus coruſcant.</hi> Upon which an Hebrew Scholiaſt thus gloſſeth, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. <hi>Quando multiplicantur Merita in mundo inferiore, quia juſti ſemet excitant per opera bona ad Vniendum &amp; Maritandum Mun<g ref="char:EOLhyphen"/>dum
+<pb n="10" facs="tcp:181308:7"/>inferiorem cum Mundo ſuperiori, tunc Malcuth quae dicitur Cheneſeth Iſrael, emittit odores fragran<g ref="char:EOLhyphen"/>tiſsimos, ad Tipheret Virum ſuum.</hi> By which paſſa<g ref="char:EOLhyphen"/>ges we may partly ſee the ſtraine of Cabaliſticke Divinity, and what a reſentment they had of this Notion. But <hi>Picus Mirandula</hi> in his Cabaliſtick Propoſitions, collected by him from ſome anci<g ref="char:EOLhyphen"/>ent Jewiſh Authours, puts us downe one that ſpeaks as fully to our purpoſe as we could ima<g ref="char:EOLhyphen"/>gine. <hi>Vbicunque in Scriptura ſit mentio amoris Ma<g ref="char:EOLhyphen"/>ris &amp; Faeminae, ibi mysticè nobis ſignificatur con<g ref="char:EOLhyphen"/>junctio Tipheret &amp; Cheneſeth Iſrael</hi> (for ſo it ſhould be read, and not <hi>Chienſeth</hi> as our printed Copies have it) <hi>vel Beth Iſrael &amp; Tipheret.</hi> That is, as the forenamed <hi>Archangelus</hi> (who hath commented on ſome of <hi>Picus</hi> his Cabaliſtick Axioms) well ex<g ref="char:EOLhyphen"/>pounds it, <hi>Conjunctio Domus Iſraelis &amp; Chriſti, qui locatur in Tipheret, tanquam Pulchrum omne pul<g ref="char:EOLhyphen"/>chrum pulchrifaciens.</hi> For Tipheret, as is well known ſignifies pulchritude and ornament. And ſo the learned <hi>Schickard</hi> in his <hi>Bechinath Happe<g ref="char:EOLhyphen"/>ruſhin,</hi> amongſt ſome other of <hi>Picus</hi> his Jewiſh Obſervations which he there commendeth, glan<g ref="char:EOLhyphen"/>ceth upon this in this manner; <hi>Tipheret matrimo<g ref="char:EOLhyphen"/>nio jungitur cum Cheneſeth Iſrael, hoc eſt, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hriſtus Eccleſiae inenarrabili amore deſponſatur.</hi> And the next Propoſition which <hi>Picus</hi> there ſets down, be<g ref="char:EOLhyphen"/>longs alſo to this purpoſe, and therefore might not be forgotten. <hi>Qui mediâ nocte cum Tipheret co<g ref="char:EOLhyphen"/>pulabitur, proſpera erit illi omnis generatio;</hi> Which <hi>Archangelus</hi> thus interprets <hi>Tipheret est Sponſus, &amp; Sponſa eſt quaelibet anima huic contractui conſen<g ref="char:EOLhyphen"/>tiens,
+<pb n="11" facs="tcp:181308:7"/>&amp; conſequenter tota Eccleſia &amp; Collectio fideli<g ref="char:EOLhyphen"/>um, &amp; qui per orationem Deo in medio noctis adhae<g ref="char:EOLhyphen"/>ret, valae de Influxu Tipheret participabit.</hi>
+            </p>
+            <p>It will not be much amiſſe upon this occaſion by the way, to give a little light to another axiome, which the ſame Authour elſewhere ſets downe <hi>ſecundùm opinionem propriam,</hi> of the ſame kinde, which I think there are but few that underſtand. <hi>Rectius est ut Amen Tipheret dicat &amp; Regnum, ut perviam numeri oſtenditur, quàm quòd dicat Regnum ſolum, ut quidam volunt.</hi> Where if we do but ob<g ref="char:EOLhyphen"/>ſerve that <hi>Tipheret</hi> and <hi>Regnum</hi> are thoſe two Se<g ref="char:EOLhyphen"/>phiroth, Tiphereth and Malcuth, which we ſpake of ſo much before; for <hi>Malcuth</hi> ſignifieth <hi>Regnum,</hi> and then in what number of the Ten Sephiroth theſe two are placed perhaps it will be eaſie to di<g ref="char:EOLhyphen"/>vine his meaning. But that I may haſten to finiſh and ſhut up this obſervation, I will onely remem<g ref="char:EOLhyphen"/>ber one place more out of <hi>Nachmanides,</hi>
+               <note place="margin">Paraſh ab cha<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Sarah.</note> where he ſpeaketh of theſe two Sephiroth, but under two other Names, and in a little different Notion. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>i.e.</hi> There is a Proprie<g ref="char:EOLhyphen"/>ty or Sephirah in God, which is called <hi>Col</hi> or <hi>Vni<g ref="char:EOLhyphen"/>verſitas,</hi> becauſe it is the Foundation of the Uni<g ref="char:EOLhyphen"/>verſe; and another Sephirah which is called <hi>Bath,</hi> or <hi>Filia,</hi> that floweth from him, and by this doth he guide and govern the World: and this is that which is called in the Song of Songs, Callah, that
+<pb n="12" facs="tcp:181308:8"/>is, <hi>Sponſa,</hi> and it is that which our Wiſemen have called in many places Cheneſeth Iſrael. Here we ſee, Tipheret is alſo called Col, or <hi>Vniverſitas,</hi> which name may very well agree to Chriſt alſo, in whom were conceived the Idaea's of the whole World, and by whom the Worlds were made; and Malcuth, or Cheneſeth Iſrael, is called not only Callah <hi>Sponſa,</hi> but alſo Bath <hi>Filia,</hi> which may very well agree to the Church likewiſe, which is not only the Spouſe of Chriſt, but alſo his Daugh<g ref="char:EOLhyphen"/>ter, flowing out from him, as <hi>Eve</hi> that was made out of <hi>Adams</hi> ſide, and afterward united to him, was his Wife, his Siſter, and his Daughter: of which more anon.</p>
+            <p>Now from this opinion which the Jewes had of Marriage, I beleeve that ancient Tradition a<g ref="char:EOLhyphen"/>mongſt them did firſt ariſe,<note place="margin">Beraſhith <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bba.</note> 
+               <hi>Quòd non ſit Conjugi<g ref="char:EOLhyphen"/>um Hominis nifi à De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tantùm,</hi> i.e. as we uſe to ſay, That all Marriages are made in Heaven; expreſ<g ref="char:EOLhyphen"/>ſing ſome ſpeciall hand of Gods concurrence in it, becauſe it had a Typicall ſignification of a Di<g ref="char:EOLhyphen"/>vine Myſtery. <hi>Quaeſivit quidam ex R. Ioſe quidnam faciat Deus post abſolutam creationem mundi: Re<g ref="char:EOLhyphen"/>ſpondit,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Sedet &amp; conjungit con<g ref="char:EOLhyphen"/>jugia:</hi> And the ſame is to be found both in the Jeruſalem Targum, and that of <hi>Ionathan</hi> upon <hi>Deut.</hi> 32.4. As if God did nothing ſince the Cre<g ref="char:EOLhyphen"/>ation of the world was perfected, but joine ſoules together in Marriage, before they came down in<g ref="char:EOLhyphen"/>to their bodies, for ſo they uſe to ſpeak, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Omnes animae, deſcendunt è coelo conjugatae.</hi>
+            </p>
+            <pb n="13" facs="tcp:181308:8"/>
+            <p>I have now done with the Jewes, and what if I ſhould ſpeak a word of the Heathens alſo, who did ever look upon Marriage as a Sacred thing. <hi>Con<g ref="char:EOLhyphen"/>iugium rem eſſe verè ſacram, id eſt, non humanitùs ſed divinitùs constitutam, magno conſenſu Gentes cre<g ref="char:EOLhyphen"/>diderunt,</hi> ſaith a learned Authour.</p>
+            <p>And it is very pertinent to this purpoſe, what a late Author reports of two Ancient Sects of Religion in the Orientall Parts, the one of the Banians, Natives of India, which ſeem to have been the Remainders of the ancient Brachmannes, whoſe Name their Teachers and Doctors yet re<g ref="char:EOLhyphen"/>tain. The other of the Perſees, Perſians by Nati<g ref="char:EOLhyphen"/>on, which ſeeme to have deſcended from the Fa<g ref="char:EOLhyphen"/>mous <hi>Magi,</hi> the Father whereof was <hi>Zoroaſter,</hi> whom they ſtill honour (as I take it) under the name of <hi>Zertooſt.</hi> Of the firſt the Authour re<g ref="char:EOLhyphen"/>lates,<note place="margin">Pag 61.</note> That they marry about the ſeventh yeare of their age, becauſe they account Marriage one of the moſt bleſſed actions of Mans Life, without which to dye were a great unhappineſſe. And of the other,<note place="margin">Pag. 47 43.</note> That when any one amongſt them dies before Marriage, they have a Cuſtome to procure ſome Mans Sonne or Daughter to be matched to the Party deceaſed, attributing this to the ſtate of Marriage, to be a means to bring people to happi<g ref="char:EOLhyphen"/>neſſe eternall in another World.</p>
+            <p>I have often thought the Egyptians had ſome reliques of an old Tradition concerning this very notion which we have ſpoken of, leſt among them, from that which <hi>Plutarch</hi> mentions of them in the life of <hi>Numa,</hi> upon the occaſion of that fami<g ref="char:EOLhyphen"/>liar
+<pb n="14" facs="tcp:181308:9"/>converſe which he pretended to have with the Goddeſſe <hi>Egeria.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Which I need not Engliſh but it is like<g ref="char:EOLhyphen"/>ly that <hi>Plutarch</hi> might marre it a little in the rela<g ref="char:EOLhyphen"/>tion; otherwiſe if this be not the meaning it may ſeeme to argue ſome Propheticall Prenotion which they had of Chriſts Conception by the Holy Ghoſt in the Virgin <hi>Mary.</hi>
+            </p>
+            <p>We learne from all this which hath been ſaid, the true reaſon why the Scripture ſo often uſeth to expreſſe the Relation of Chriſt and the Church under the Notion of Man and Wife, or <hi>Sponſus</hi> and <hi>Sponſa,</hi> both in the Old and New Teſtament. In the 45. <hi>Pſalm</hi> and the <hi>Song of Solomon</hi> through<g ref="char:EOLhyphen"/>out. And <hi>Iohn</hi> the Baptiſt uſeth the Words <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as if they were in a maner ſynonymous. <hi>Iohn</hi> 3.28, 29. <hi>I am not the Christ, but I am ſent be<g ref="char:EOLhyphen"/>fore him, he that hath the Bride is the Bridegroome,</hi> this Notion being then very familiar amongſt them. In the 22. of <hi>Matthew</hi> the Kingdome of Heaven is compared to a King making a <hi>Marri<g ref="char:EOLhyphen"/>age</hi> for his Sonne. The <hi>Apocalyps</hi> ſpeaks much of the <hi>Marriage of the Lamb,</hi> and there be divers O<g ref="char:EOLhyphen"/>ther places to the ſame purpoſe. Wherefore I<g ref="char:EOLhyphen"/>dolatry and falſe Worſhip alſo in the Church of God, is expreſſed under the Notion of Spirituall <hi>Fornication;</hi> and no one Scheme of Speech or manner of expreſſion is ſo frequently and con<g ref="char:EOLhyphen"/>ſtantly made uſe of throughout the whole Scrip<g ref="char:EOLhyphen"/>ture as this is. In all which places and the like,
+<pb n="15" facs="tcp:181308:9"/>we muſt not conceive a <hi>Metaphore,</hi> but a <hi>Myſtery.</hi>
+            </p>
+            <p>And perhaps Chriſt himſelfe intimated this Myſtery in his manner of Life and converſe here upon earth. For ſome * Divines have wittily con<g ref="char:EOLhyphen"/>ceived,<note place="margin">Lud<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Vives de Ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it.</note> that amongſt many other good reaſons which may be given, why Chriſt ſhould live an Vnmarried Life, this might be one alſo, to ſhew that hee was <hi>Sponſus Eccleſiae,</hi> The <hi>Spouſe of the Church.</hi>
+            </p>
+            <p>And I cannot here forget how elegantly this Notion was expreſſed by an Old <hi>Syriack Philoſo<g ref="char:EOLhyphen"/>pher</hi> in an Enigmaticall Poeme <hi>De Sapientia Divi<g ref="char:EOLhyphen"/>na,</hi> ſet out by <hi>Sionita,</hi> in this manner.</p>
+            <q>
+               <lg>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Occurrit mihi in mundo Puella</l>
+                  <l>Aſpectu bella,</l>
+                  <l>Et Oculis ſplendida,</l>
+                  <l>Et Vultu pulchra.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Virgo &amp; Mater, Adoleſcentula,</hi>
+                  </l>
+                  <l>
+                     <hi>Et Vetula, &amp; familià</hi>
+                  </l>
+                  <l>
+                     <hi>Admiranda.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <pb n="16" facs="tcp:181308:10"/>
+               <lg>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>In eius facie depicta est Dies</l>
+                  <l>quae omnia illuminat,</l>
+                  <l>Et Nox obſcura ſuſpenſa eſt </l>
+                  <l>Crinibus eius.</l>
+               </lg>
+               <lg>
+                  <l>In medio palpebrarum eius,</l>
+                  <l>Occultantur Sol &amp; Luna &amp; </l>
+                  <l>Aer;</l>
+                  <l>Etiam Elementa coram ea</l>
+                  <l>Exultant, motu Circulari.</l>
+               </lg>
+            </q>
+            <p>Thus farre he ſeems to deſcribe the Church, and afterwards to bring in Chriſt the Spouſe, in this manner:</p>
+            <q>
+               <lg>
+                  <l>
+                     <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Vidi Iuvenem iucundum Diademate vinctum,</l>
+                  <l>Eius Puellae quae me inſanum reddit, </l>
+                  <l>amore percitum.</l>
+               </lg>
+            </q>
+            <p>Thus I have done with the firſt thing which I propounded, <hi>That the Vnion of Man and wife is a Type, whereof the Vnion of Chriſt and the Church is the Archetype.</hi> I come to the ſecond.</p>
+            <p>
+               <hi>That the Making of</hi> Eve <hi>at firſt out of</hi> Adam, <hi>and the Vniting of her againe to him, which was the firſt Originall of Marriage, was Typicall of Christ the Second</hi> Adam, <hi>and his wife the</hi>
+               <pb n="17" facs="tcp:181308:10"/>Church. And this I prove from the 30. and 31. verſes, where the Apoſtle uſeth thoſe very words which were ſpoken of <hi>Eve,</hi> in <hi>Geneſis,</hi> when ſhe was made out of <hi>Adam,</hi> concerning the Church and Chriſt. <hi>For we are members of his Body, of his Fleſh, and of his Bones; For this cauſe ſhall a man leave his Father and Mother, and be ioyned to his Wife, and they two ſhall be one Fleſh.</hi> Where leſt we ſhould be miſtaken, as if theſe words of the latter verſe were ſpoken onely of Man and Wife, and did not allude to Chriſt and the Church, as the Words going before did, to which notwithſtan<g ref="char:EOLhyphen"/>ding they were immediately ſubjoyned by <hi>Moſes</hi> in <hi>Geneſis:</hi> he addeth, <hi>This is a great Myſtery, but I ſpeak</hi> (all this while) <hi>of Chriſt and the Church.</hi>
+            </p>
+            <p>'Tis true, the Apoſtle doth not here go about to prove that there was any ſuch Myſticall mean<g ref="char:EOLhyphen"/>ing in that paſſage of <hi>Moſes</hi> his ſtory; neither doth he bring it out as if it were a new thing to thoſe converted Jewes to whom he wrote. But as that which was well enough underſtood amongſt them, and therefore certainly they had ſome Ca<g ref="char:EOLhyphen"/>bala, or received Tradition concerning ſuch an interpretation of it. Which that ingenuous Au<g ref="char:EOLhyphen"/>thour <hi>Petrus Cunaeus</hi> well obſerved, <hi>De Rep. Heb. Lib.</hi> 3. <hi>Cap.</hi> 8. where having ſhewn that divers pla<g ref="char:EOLhyphen"/>ces of the Old Teſtament are expounded in the New, according to ſome Cabala, which they had concerning them, he reckons up this amongſt the reſt: <hi>Etiam in illis verbis quae extant in Capite ſecundo Geneſeos agnoſcimus Cabalam, Quod enim ibi dicitur,</hi> RELINQUET HOMO PATREM
+<pb n="18" facs="tcp:181308:11"/>MATREMQUE, ET ADHAEREBIT UXORI; <hi>ex illo ignotum mortalibus Sacramentum revelat A<g ref="char:EOLhyphen"/>postolus in Capite quinto Epiſtolae ad Epheſios. My<g ref="char:EOLhyphen"/>ſtertum hoc magnum eſt, loquor autem de Chriſto &amp; de Eccleſia.</hi>
+            </p>
+            <p>Now though it be not neceſſary, that any Foot<g ref="char:EOLhyphen"/>ſteps of this <hi>Cabala</hi> ſhould be found in thoſe Jewiſh writings which now we have, (for <hi>Cunaeus</hi> doth not go any further to ſhew us what it was) yet we will endevour to make our beſt ſearch and enquiry after it.</p>
+            <p>
+               <hi>Moſes Maymonides</hi> in his <hi>Moreh Nevochim lib.</hi> 2. <hi>cap.</hi> 30. ſpeaking concerning the Story of <hi>Gene<g ref="char:EOLhyphen"/>ſis</hi> and the firſt Creation, after he had declared ſome more obvious things concerning it, he comes to tell his Reader ſome Myſteries, but ſo as that he would wave the interpretation of them, leſt he ſhould be counted a betrayer of the Secrets of his Nation. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Quae tibi ex verbis Sapientum nostrorum propoſiturus ſum, ſunt perfectiſsima &amp; ordinatiſsima, ideò non diu immora<g ref="char:EOLhyphen"/>bor in expoſitione illorum, neque ſenſum ipſorum ex<g ref="char:EOLhyphen"/>plicabo, ne arcanorum fiam revelator.</hi> The firſt of thoſe Myſteries is this: <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:181308:11"/>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Which <hi>Buxtorfius</hi> thought good to Latine thus, though I thinke he do not exactly expreſſe the Authors ſenſe. <hi>Adam &amp; Eva creati fuerunt ſicut Vnus, &amp; tergis vel dorſo conjun<g ref="char:EOLhyphen"/>cti, postea verò à Deo diviſi fuerunt, qui dimidiam il<g ref="char:EOLhyphen"/>lam partem accepit, &amp; fuit Eva, &amp; adducta fuit ad ipſum. Animadverte quomodò explicetur quod fue<g ref="char:EOLhyphen"/>rint certo reſpectu Duo, &amp; certo reſpectu Vnum, ſicut dicitur, Os ex oſsibus meis, &amp; Caro ex Carne mea; quod fuerint certo reſpectu Duo, id confirmatur ex eo quod dicitur Nomen Vnum</hi> AMBOBUS <hi>convenire, Vocahitur Iſhah Vira, quia ex Iſh Viro deſumpta eſt: quod fuerint</hi> UNUM <hi>id confirmatur eo quod dicitur, Et adhaerebit</hi> VXORI <hi>ſuae, &amp; erunt in Carnem unam.</hi> But leſt we ſhould take all this meerly in a literall ſenſe, hee concludes it in this manner: <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. <hi>Quanta verò eſt ignorantia illius qui non intelligit haec ſecundùm aliquem Senſum occultum intelligenda eſſe?</hi> This ſame Tradition, whatſoever it mean, I find divers others of their own Authors glancing at. <hi>R. Simeon Ben Iochai</hi> in the Booke <hi>Zohar</hi> before commended <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Adam &amp; Eva creabantur latere ad latus, quaenam eſt ratio quòd non creabantur facie ad faciem? R. Solomon</hi> and <hi>Aben-Ezra</hi> upon the ſecond of <hi>Geneſis,</hi> and <hi>Elias Levita</hi> in <hi>Tiſhbi</hi> upon the word <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ex<g ref="char:EOLhyphen"/>preſſe it briefly thus, out of <hi>Midraſh Aggadah.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. <hi>The firſt</hi> Adam <hi>was created with two faces,
+<pb n="20" facs="tcp:181308:12"/>and afterward God divided him into Man and Wo<g ref="char:EOLhyphen"/>man.</hi> The ſame is likewiſe mentioned in <hi>Breſhith Rabba,</hi> and the <hi>Babyloniſh Talmud,</hi> in the Booke <hi>Berachoth,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Duas facies creavit Deus in Adamo primo, ſicut dicitur, Ante &amp; retrò formaſts me.</hi> And <hi>Philo</hi> the Jew without queſtion allu<g ref="char:EOLhyphen"/>deth to it, in his Book <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſpeak<g ref="char:EOLhyphen"/>ing concerning the Making of the Woman in theſe words. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. <hi>Quando verò facta eſt mulier, videns homo cognatam ſpeciem &amp; imaginem, delectabatur ſpectaculo, ſuperveniens autem amor tanquam</hi> VNIUS ANIMALIS DUO SEGMENTA AB INVICEM DISTAN<g ref="char:EOLhyphen"/>TIA <hi>colligens, in unum iterum compegit.</hi>
+            </p>
+            <p>Here then wee have already found out ſome Jewiſh <hi>Cabala,</hi> or Tradition, concerning that piece of Story in <hi>Geneſis,</hi> which is ſo myſtically expounded by Saint <hi>Paul,</hi> although we do not yet know the meaning of it; onely <hi>Maymonides</hi> hath taught us that it muſt be underſtood in ſome OC<g ref="char:EOLhyphen"/>CULT SENSE.</p>
+            <p>But before we come to that, that we may ſhew how ancient this piece of <hi>Cabaliſme</hi> was, and that it was long before Saint <hi>Pauls</hi> time, by whom this Epiſtle to the <hi>Epheſians</hi> was written, wee will produce the very ſelfe ſame thing out of <hi>Plato,</hi> as he had received it ſome way by Tradition in the Orientall Parts, which will deſerve no little admi<g ref="char:EOLhyphen"/>ration.
+<pb n="21" facs="tcp:181308:12"/>He therefore in that excellent Sympo<g ref="char:EOLhyphen"/>ſiack dialogue concerning the nature of Love, brings in <hi>Ariſtophanes</hi> diſcourſing in this manner: <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i.e. <hi>Non erat antiqua ho<g ref="char:EOLhyphen"/>minum natura qualis nunc eſt ſed longè diverſa,</hi> ANDROGYNUM <hi>tunc enim erat &amp; ſpecie &amp; nomine, ex Maris &amp; Foeminae Sexu commixium.</hi> (Compare this with that of <hi>Maymonides</hi> before; <hi>Adam &amp; Eva creati fuerunt ſicut unus,</hi> (and goe on) <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. <hi>Erat porro rota hominis ſpecies rotunda, dorſum &amp; latera circum habens, manus quatuor, totidemque crura, facies item duas teriti cervice connexas.</hi> Here <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> are the very ſame words which we quo<g ref="char:EOLhyphen"/>ted from the Talmud <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (for in that de<g ref="char:EOLhyphen"/>clining age of the Hebrew and Chalday Tongues, about the time of the deſtruction of the Second Temple, many Greek and Latine and other barba<g ref="char:EOLhyphen"/>rous words, were mingled with them) and there is withall added a larger explication of it. But then when he comes to ſpeak of the dividing of this <hi>Androgynon</hi> into two, whereof one ſhould be Male and the other Female, he puts in ſomething for the occaſion of it, which we have not found mentioned to this purpoſe in Jewiſh Authors, al<g ref="char:EOLhyphen"/>though he received it alſo by Tradition (though not immediately) from the Jewes, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:181308:13"/>i.e. <hi>Ani<g ref="char:EOLhyphen"/>mos ſuperbos habuerunt, Diis bellum inferre conati, &amp; in coelum aſcendere, quemadmodum de Ephialto &amp; Oto narrat Homerus, ut violentas manus in Does in<g ref="char:EOLhyphen"/>ferrent.</hi> Whereupon the Gods conſulting what to do, <hi>Iupiter</hi> at laſt found out this plot, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith he) <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Vnumquemque in duas partes diſſecabo.</hi> Whereupon it followes, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i.e. <hi>Haec fatus, bifariam partitus eſt ſingulos, inſtar eorum qui ova dividunt ut ſale con<g ref="char:EOLhyphen"/>diant.</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. They are incomparable words, expreſſing in the Type exactly according to the Scripture-No<g ref="char:EOLhyphen"/>tion the Nature of Marriage, but yet ſo, as look<g ref="char:EOLhyphen"/>ing alſo beyond that, they aime at ſome further Myſtery. <hi>viz. Hinc nimirum ex illo tempore mutuus hominibus innatus eſt amor</hi> PRISCAE NATURAE CONCILIATOR, <hi>annitens</hi> VNUM EX DU<g ref="char:EOLhyphen"/>OBUS <hi>efficere,</hi> (what could be more like that of the Scripture, <hi>They two ſhall he one Fleſh</hi>) <hi>homi<g ref="char:EOLhyphen"/>numque naturae mederi; eſt igitur unuſquiſque no<g ref="char:EOLhyphen"/>ſtrum hominis Collatio &amp; quaſi Dimidium, veluti diſſecatus, ut illi Piſciculi qui Pſettae vocantur ſciſsi ex Vno efficiuntur Duo.</hi>
+            </p>
+            <p>I cannot conſent with <note n="†" place="margin">Lib. 12. Praepar. Evang.</note> 
+               <hi>Euſebius,</hi> that <hi>Plato</hi> had ſeen <hi>Moſes</hi> his words, and there had taken out this whole Story, as well as divers other things,
+<pb n="23" facs="tcp:181308:13"/>for * beſides many weighty Reaſons which I have to think he never ſaw any of thoſe Sacred Vo<g ref="char:EOLhyphen"/>lumes,<note place="margin">Vide Engubi<g ref="char:EOLhyphen"/>num in Timae<g ref="char:EOLhyphen"/>um Platonis.</note> this doth not agree with <hi>Moſes</hi> his relation of it, but is the very ſame with that Jewiſh Cabala before recited, which he had therefore certainly received by Tradition, when he was in Egypt, or ſome other of thoſe Orientall Parts bordering up<g ref="char:EOLhyphen"/>on the Jewes. Onely as <hi>Leo Hebraeus</hi> (a diſguiſed Author, whoſe true name I think was <hi>Iuda Abra<g ref="char:EOLhyphen"/>vanel</hi>) well obſerves, having there heard of theſe two diſtinct things, The making of <hi>Eve</hi> out of <hi>Adam,</hi> by Cutting of him in two; and then of the Fall of our firſt Parents, which was by their Pride, deſiring to be as God: He thought theſe two did belong to one another, and therefore joyned them both together, making their Pride to be the rea<g ref="char:EOLhyphen"/>ſon why they were ſo divided into two, as a Pu<g ref="char:EOLhyphen"/>niſhment inflicted on them: whereas in <hi>Moſe's</hi> Story, the Fall of Man came after the making of <hi>Eve</hi> out of <hi>Adam.</hi> And certain it is that <hi>Plato</hi> in all this, did thinke there was contained ſome Myſticall meaning concerning the Nature of Di<g ref="char:EOLhyphen"/>vine Love, either as <hi>Ficinus</hi> or <hi>Leo Hebraeus</hi> alle<g ref="char:EOLhyphen"/>gorize it, or elſe perhaps more ſimply thus, That Man in his firſt Eſtate being united unto God, and one with him, afterward Sinning was divorced from him, and ſunk down quite into the Body, but ſo as that by Divine Love he might ſtill recover himſelfe, and ſo by degrees work up himſelf again unto God, and be made perfectly one with him, as by a Carnall and outward Affection, Man and Wife here below are united together.</p>
+            <pb n="24" facs="tcp:181308:14"/>
+            <p>But if we would have a true and genuine Inter<g ref="char:EOLhyphen"/>pretation of this Jewiſh Tradition, we muſt have recourſe to the Jewiſh Authors themſelves, and eſpecially the Maſters of the Cabala; and they will tell us, that here alſo <hi>Adam</hi> and <hi>Eve</hi> are myſtically ſignified Tipheret and Malcuth, of which wee have ſpoken ſufficiently before, that were at firſt both one Sephirah, as it were Male and Female together, but afterward were parted aſunder into two <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from being ſo conjoyned; but then were united together a<g ref="char:EOLhyphen"/>gaine as Man and Wife, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. This is fully handled and explained with many Caba<g ref="char:EOLhyphen"/>liſtick Myſteries, by the ſore-cited Author of Shephah Tal, in a Diſcourfe on purpoſe, the Ti<g ref="char:EOLhyphen"/>tle whereof is <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Arcanum duarum facierum.</hi> I will only tranſcribe ſome few remar<g ref="char:EOLhyphen"/>kable paſſages out of it. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. <hi>Anima Adami qui erat maſculus emanavit ex Tipheret, &amp; anima Evae quae erat Foemina emanavit ex Malcuth; Duas facies habuerunt poſt creationem, hoc eſt, poſt creatio<g ref="char:EOLhyphen"/>nem eorum in mundo hoc corporeo &amp; materiali habue<g ref="char:EOLhyphen"/>runt duas facies in corpore uno: Et ſicut Adam &amp; Eva
+<pb n="25" facs="tcp:181308:14"/>materiales habuerunt duas facies in corpore uno, ſic etiam Fontes unde emanarunt Tipheret &amp; Malcuth, ſc. Fons Amimae Adami qui erat Tipheret, &amp; Fons ani<g ref="char:EOLhyphen"/>mae Evae qui erat Malcut, quando erant hae duae Sephi<g ref="char:EOLhyphen"/>rot Tipheret &amp; Malcuth in ſecreto Binah, erant tunc corpus nnum Sephirah una, conſummata ex duabus fa<g ref="char:EOLhyphen"/>ciebus, quae erant ſecretum maris &amp; Foeminae. Et Zo<g ref="char:EOLhyphen"/>har loquitur quidem</hi> (<hi>viz.</hi> in that Tradition before related out of him) <hi>de inferioribus &amp; de animis A<g ref="char:EOLhyphen"/>dami &amp; Evae, ſed intelligendus eſt de Superioribus, ſcilicet de Fontibus undè emanarunt.</hi> And againe, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> &amp;c. <hi>Notum eſt, quod iſtae Sephiroth Tipheret, &amp; Malcuth, Secretum maris &amp; Foeminae, adminiſtrant mundum, nec neceſſe eſt ut re<g ref="char:EOLhyphen"/>velentur diſtinctè, niſi poſt creationem hominis: e<g ref="char:EOLhyphen"/>rant verò anteà in Eſſentiâ ſuâ occultâ conjunctim exiſtentes.</hi> The meaning is, that as ſoone as Man was created, the Church did then flow out of Chriſt, and became diſtinct from him (whereas before it lay hid in him) yet ſo, as that Chriſt and it, that is, Tipheret and Malcuth, were united together againe, as Sponſus and Sponſa, whereof the Union of Adam and Eve by marriage was ſome Type and Shadow.</p>
+            <p>So then wee may eaſily unriddle this <hi>Cabala,</hi> whereof the true meaning ſeems to be nothing elſe but this, that the Church did as it were lie hid in Chriſt from all Eternity, and was Seminally contained in him; who therefore might be ſayd all that while to have <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<pb n="26" facs="tcp:181308:15"/>or elſe in <hi>Plato's</hi> language to be <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i.e. (to ſpeak with reverence) <hi>Male and Female toge<g ref="char:EOLhyphen"/>ther.</hi> As the Heathens, I know not how, in ſome Arcane ſenſe, were wont to deſcribe their Gods. For ſo <hi>Orpheus,</hi> the Father of Ethnicall Theology, ſpeaks of <hi>Iupiter,</hi>
+            </p>
+            <p>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Which <hi>Apuleius</hi> in his Book <hi>De Mundo</hi> thus in<g ref="char:EOLhyphen"/>terprets, <hi>Iupiter &amp; Mas eſt, est que idem Nympha perennis.</hi>
+            </p>
+            <p>And of <hi>Minerva,</hi>
+            </p>
+            <p>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>And there is an Old Monument at Rome to this day, with this Inſcription upon, it, SIVE DEO SIVE DE AE C. TER. DEXTER EX VOTO POSVIT.</p>
+            <p>
+               <hi>Servius</hi> upon that Verſe of <hi>Virgil</hi> in his ſecond <hi>AEnead,</hi>
+            </p>
+            <p>
+               <hi>Deſcendo &amp; ducente Deo</hi> —</p>
+            <p>where the Poet calls <hi>Venus Deum,</hi> in the Maſcu<g ref="char:EOLhyphen"/>line Gender, notes, <hi>Loquitur ſecundùm eos, qui di<g ref="char:EOLhyphen"/>cunt
+<pb n="27" facs="tcp:181308:15"/>utriuſque Sexus participationem habere Numi<g ref="char:EOLhyphen"/>na.</hi> And this, other learned men ſince, have often taken notice of; as <hi>Petrus Crinitus</hi> in his Booke <hi>De honeſta Diſciplina;</hi> and <hi>Caſperius Gevartius</hi> in the Third Book of his <hi>Electa,</hi> in the explication of that famous Enigme of</p>
+            <q>
+               <l>Elia Lelia Criſpis,</l>
+               <l>Nec Vir, nec Mulier, nec Androgyna.</l>
+            </q>
+            <p>Which <hi>Fortunius Licetus</hi> hath more fully ſince explained, in a Volume of purpoſe upon that Ar<g ref="char:EOLhyphen"/>gument. And laſtly, Maſter <hi>Selden,</hi> in the <hi>Prole<g ref="char:EOLhyphen"/>gomena</hi> of his Book DE DIS SYRIS, whoſe words I will here ſet downe:<note place="margin">Vide &amp; eun<g ref="char:EOLhyphen"/>dem ibidem de Aſtarte.</note> 
+               <hi>Credidit Vulgus De<g ref="char:EOLhyphen"/>um hoc, illud Deam Numen, Edocti tamen à ſacrorum antiſtitibus ſolenni invocatione,</hi> SIVE TU DEUS ES SIVE DEA, <hi>unumquodque compellabant, teſte Agellio, Arnobio, aliis: Viriuſque ſcilicet Naturae &amp; Maſculinae &amp; Foemininae vis ineffabilis, quam veteres in Deo Vnico Opt. M. agnoſcebant, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> eum vocantes, myſticè innuebatur.</hi> And a little af<g ref="char:EOLhyphen"/>ter, <hi>Rectiſsimè ad eam mentem Nichomachus Geraſe<g ref="char:EOLhyphen"/>nus in</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>libris, coeteroqui ſatis ineptis, Vnitatem</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>aſſerit.</hi> And indeed <hi>Hermes Triſmegiſt,</hi> or whoſoever were the Author of <hi>Poemander,</hi> who, I think with <hi>Caſaubon,</hi> was ra<g ref="char:EOLhyphen"/>ther a Chriſtian Divine than a Philoſopher, cal<g ref="char:EOLhyphen"/>leth God or Chriſt the true λογοσ and <hi>Word</hi> of God, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; as if ſeemes, in reſpect of the Cre<g ref="char:EOLhyphen"/>ation of the whole world, which was made out of that Ideall Fecundity which was in him: which
+<pb n="28" facs="tcp:181308:16"/>might be better applyed to him, in reſpect of the Church, and that by the Apoſtles warrant, who hath led us thus farre into this Notion, affirming that <hi>Beleevers are Members of Chriſts Body, of his Bone and of his Fleſh,</hi> and therfore made out of him; which muſt not be underſtood as if it were by the derivation of any materiall ſubſtance, for ſo Chriſt in reſpect of his body is rather <hi>Bone of our Bone, and Fleſh of our Fleſh;</hi> but by the Effluxe and Communi<g ref="char:EOLhyphen"/>cation of his Spirit. For the Church is nothing elſe but <hi>Christus explicatus,</hi> Chriſt dilated and ex<g ref="char:EOLhyphen"/>plicated, and therefore is ſometimes called in the Scripture by the name of Chriſt: <hi>Eccleſia eſt Chri<g ref="char:EOLhyphen"/>ſtus,</hi> (ſaith <hi>Tertullian</hi>) <hi>ergo cùm te ad fratrum ge<g ref="char:EOLhyphen"/>nua protendis, Christum contrectas, Chriſtum exoras, &amp; illi cùm ſuper te lachrymas agunt, Chriſtus patitur, Chriſtus Patrem deprecatur,</hi> in his Booke <hi>De Poeni<g ref="char:EOLhyphen"/>tentia.</hi>
+            </p>
+            <p>But further to confirm this, that the Jewes had ſuch a Tradition concerning this Myſticall In<g ref="char:EOLhyphen"/>terpretation of that Story of <hi>Adam</hi> and <hi>Eve</hi> in <hi>Ge<g ref="char:EOLhyphen"/>neſis,</hi> I will produce another Teſtimony of ſome ancient Iewiſh Author, recorded by <hi>Munſter</hi> in his Commentary upon that Book; that the ma<g ref="char:EOLhyphen"/>king of <hi>Eve</hi> at firſt out of <hi>Adams</hi> ſide, was <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Ad ſignificandam ſive notandam conjugem</hi> ADAMI SUPERIORIS <hi>qui eſt benedictus.</hi> Which is the ſame that was intimated in the former <hi>Cabala,</hi> according to the manner of the Orientall Nations, that were wont to couch their greateſt Myſteries and peeces of Wiſdome, which they conveyed by Tradition to
+<pb n="29" facs="tcp:181308:16"/>one another, in the Covert of ſome Fables. And thence <hi>Pythagoras</hi> and <hi>Plato</hi> afterward brought that manner of Philoſophizing into <hi>Europe.</hi>
+            </p>
+            <p>But laſt of all, for the fuller conviction of this Propoſition which we have laid down, that <hi>The Making of</hi> Eve <hi>out of Adam, did type out ſomething anſwerable in Chriſt and the Church,</hi> it will not be amiſſe, to conſider what an elegant Parallel there is to that Type in the Antitype. For juſt as <hi>Eve</hi> was made out of <hi>Adams</hi> ſide when he was aſleep in Paradiſe, ſo when Chriſt was ſleeping the ſleep of death upon the Croſſe, was his ſide likewiſe opened, and out of it flowed forth Water and Blood, one for the juſtification, the other for the Sanctification of the Church; or elſe, as Saint <hi>Au<g ref="char:EOLhyphen"/>ſtine</hi> and others of the Fathers will have it, the Types of the two Sacraments, Baptiſme and the Lords Supper. Whence is that of Saint <hi>Ierome,</hi> in his Epiſtle <hi>Ad Pammachium, Eva in typo Eccleſiae de Coſta viri aedificata eſt:</hi> And of Saint <hi>Auſtin,</hi> in his ſecond Book <hi>De Symb. Dormiat moriendo, ape<g ref="char:EOLhyphen"/>riatur ejus latus &amp; Eccleſia prodeat Virgo, ut quo<g ref="char:EOLhyphen"/>modo Eva facta eſt ex latere Adae dormientis, ita Ec<g ref="char:EOLhyphen"/>cleſia facta ſit ex latere Chriſti morientis, &amp; in cru<g ref="char:EOLhyphen"/>ce pendentis;</hi> and others of the Fathers ſo often alluded to this Notion, that the School-men at laſt had got this pretty obſervation, <hi>Eccleſia facta eſt de latere Christi dormientis in cruce.</hi>
+            </p>
+            <p>Neither may it ſeem ſtrange that we make <hi>A<g ref="char:EOLhyphen"/>dam</hi> before the Fall to be thus a Type of Chriſt, for if it were not too long here to diſcuſſe, it might be eaſily proved that there were Types in
+<pb n="30" facs="tcp:181308:17"/>Paradiſe. Neither can I beleeve that the <hi>Tree of Life</hi> had in it a Naturall Power to preſerve from death, as <hi>Goropius Becanus</hi> perhaps might dreame, but that it was a Typicall and Sacramentall thing, the myſtery whereof ſeems to be unfolded <hi>Rev.</hi> 22.2. where we have a deſcription of another Paradiſe, of which alſo, to my apprehenſion, the firſt Paradiſe it ſelfe was a Type. For though I dare not confidently averre that which the Noble <hi>Picus</hi> took upon him to defend, <hi>Si non peccaſſet Adam Deus fuiſſet incarnatus ſed non crucifixus;</hi> Although the ancient Jewes ſeeme to have beene of that opinion, when among five things, which they ſay <hi>were created before the World,</hi> they make Meſſiah the Son of <hi>David</hi> to be one, meaning thereby, as a learned Scholiaſt of their owne ex<g ref="char:EOLhyphen"/>pounds it,<note place="margin">R D Kimchi in C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mment. ad <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> that he was abſolutely and primarily in<g ref="char:EOLhyphen"/>tended in the Creation of the World. And <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi> alſo, if I underſtand him aright, in his Book <hi>De Reſurrectione carnis, Quodcunque enim limus ex<g ref="char:EOLhyphen"/>primebatur, Chriſtus cogitabatur homo futurus — Et limus ille jam tunc imaginem induens Chriſti in carne, non tantum Dei opus erat, ſed &amp; pignus.</hi> Yet however there might well be Types of Chriſt in Paradiſe, becauſe God ever intended Chriſt in the World, upon the ſuppoſition of mans Fall, which he at leaſt foreknew. Sure I am the A<g ref="char:EOLhyphen"/>poſtle tells us plainely, that the firſt <hi>Adam</hi> was <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> 5.14. <hi>A figure or Type of him that was to come.</hi> And ſo <hi>R. Menachem</hi> of <hi>Rika<g ref="char:EOLhyphen"/>nat</hi> according to the minde of the ancient Jewiſh Doctors, upon <hi>Gen.</hi> 5.1. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="31" facs="tcp:181308:17"/>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> i.e. <hi>The Forme of the Inferior</hi> Adam, <hi>myſtically ſignified the Forme of the Superior</hi> Adam. And as <hi>Adam</hi> was then a Type of Chriſt, ſo might <hi>Eve</hi> alſo be of the Church; nei<g ref="char:EOLhyphen"/>ther was ſhe ſo called without a Myſtery, for the Church indeed is the True <hi>Chavvah,</hi> the <hi>Mo<g ref="char:EOLhyphen"/>ther of all living,</hi> of all thoſe which live the Life of Grace here, and of glory hereafter.</p>
+            <p>I come to the Third and laſt thing, From theſe Words, to ſhew <hi>How and in What Reſpects this Vnion of Man and Wife by Marriage, doth typically ſignifie the Myſticall Vnion of Chriſt and the Church.</hi> Which is not barely by the Naturall Conjuncti<g ref="char:EOLhyphen"/>on of them, for there muſt be ſome Poſitive and Inſtituted Circumſtrnces to make a thing proper<g ref="char:EOLhyphen"/>ly to be a Type. And they are chiefly thoſe two which are contained in thoſe words in which the Primitive inſtitution of Marriage is expreſſed. <hi>For this cauſe ſhall a man leave Father and Mother and be joyned to his Wife, and they two ſhall be one Fleſh;</hi> where are two things of Divine Inſtituti<g ref="char:EOLhyphen"/>on concerning Marriage implyed. Firſt, that eve<g ref="char:EOLhyphen"/>ry man ſhould have but one Wife, and that is to Type out the Union betwixt Chriſt and his <hi>One Onely Church,</hi> expreſſed in thoſe Words, <hi>They Two ſhall be one Fleſh,</hi> againſt Promiſcuous conjuncti<g ref="char:EOLhyphen"/>on and Polygamy. Secondly, That a Man may not put away his Wife for any cauſe (except that of Fornication) when it is ſaid, <hi>They ſhall be One Fleſh,</hi> to type out the inſeparable and indiſſoluble Vnion between the Church and Chriſt, againſt
+<pb n="32" facs="tcp:181308:18"/>Divorce. For that theſe two, Polygamy and Di<g ref="char:EOLhyphen"/>vorce, are in themſelves abſolutely againſt the Law of Nature, I think will hardly ever be pro<g ref="char:EOLhyphen"/>ved. And therefore our Saviour, <hi>Matth.</hi> 19. goes about to ſhew them both to be unlawfull, not from the Law of Nature, but from that Pri<g ref="char:EOLhyphen"/>mitive, Poſitive Inſtitution which wee have before ſpecified, in theſe Words. <hi>Have you not read that he which made them at firſt, made them Male and Female, and ſaid, For this cauſe ſhall a Man leave Father and Mother, and cleave to his Wife, and they Twain ſhall be one Fleſh; Where<g ref="char:EOLhyphen"/>fore they are no more twain but one Fleſh: What there<g ref="char:EOLhyphen"/>fore God hath joyned together let no man put aſunder. They ſaid unto him, Why did</hi> Moſes <hi>then command to give a Writing of Divorcement, and to put her away? He ſaith unto them,</hi> Moſes <hi>becauſe of the hardneſſe of their hearts ſuffered them to put away their Wives, but from the beginning it was not ſo.</hi> Where al<g ref="char:EOLhyphen"/>though it be ſaid, that it was for the hardneſſe of their hearts that they were allowed to put away their Wives with a Bill of Divorce, which may be affirmed likewiſe of the other, the permiſſion of Polygamy amongſt them; Yet I cannot be<g ref="char:EOLhyphen"/>leeve that God would have ſuffered theſe two, Polygamy and Divorce to have continued ſo long in his owne Church, and that with ſuch ſeeming approbation, if they had been directly contrary to the Law of Nature, which he doth not, ſome ſay, cannot diſpence with. But it is in his owne power to diſpence with his owne Poſi<g ref="char:EOLhyphen"/>tive Inſtitutions for a time, more or leſſe, as he pleaſes.</p>
+            <pb n="33" facs="tcp:181308:18"/>
+            <p>Now if it ſhould be objected, that in the He<g ref="char:EOLhyphen"/>brew Text <hi>Gen.</hi> 2.24. there is nothing that may ſeem to prejudice Polygamy, becauſe the Word Two, upon which the chiefe ſtreſſe of that No<g ref="char:EOLhyphen"/>tion lyes, is not there to be found, it being read thus, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>And they ſhall be one Fleſh.</hi> I anſwer, That though perhaps that Word may be Vnderſtood and borrowed from the Context, yet I ſtrongly beleeve that it was read alſo in the anci<g ref="char:EOLhyphen"/>ent Copies of the Hebrew Bible. Not onely be<g ref="char:EOLhyphen"/>cauſe the place might elſe be eaſily eluded; and we ſee that the Jewiſh Doctors notwithſtanding doe all generally hold to this day that Poly<g ref="char:EOLhyphen"/>gamy is lawfull, as Maſter <hi>Selden</hi> hath largely ſhewed, in that incomparable worke <hi>De Iure Na<g ref="char:EOLhyphen"/>turali &amp; Gentium:</hi> but alſo becauſe this is ſoure ſeverall times quoted in the New Teſtament, in this manner, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>They two ſhall be one Fleſh,</hi> and ſometimes, ſo as that the chiefeſt ſtreſſe lyes upon that word. And becauſe divers ancient Tranſlations read it in the ſame manner: beſide the LXX. whence perhaps it is quoted in the New Teſtament, the Chaldee Paraphraſe of <hi>Iona<g ref="char:EOLhyphen"/>than Ben Vziel,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Et erunt ambo in Carnem unam:</hi> and a Manuſcript Syriacke Metaphraſe produced by <hi>Morinus,</hi> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Et erunt ambo Caro una.</hi> But laſtly, that which is moſt of all conſiderable, although theſe Hebrew copies which now we have, received from the Jewes, read it otherwiſe, yet that incomparable Antiqui<g ref="char:EOLhyphen"/>ty of the Samaritane Pentateuch, lately brought
+<pb n="34" facs="tcp:181308:19"/>to light, which ſeemes to be truer in many places than our Copies are, hath it thus, in He<g ref="char:EOLhyphen"/>brew Language, and the true Old Hebrew (now called the Samaritane) Letter; <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Et fiet ex duobus illis in carnem unam.</hi>
+            </p>
+            <p>Now that both theſe Circumſtances of Law<g ref="char:EOLhyphen"/>full Marriage, were inſtituted to Type out ſome<g ref="char:EOLhyphen"/>thing in the Vnion between Chriſt and the Church; was very well underſtood by Saint <hi>Au<g ref="char:EOLhyphen"/>ſtin,</hi> who obſerves firſt againſt Polygamy, in his Book <hi>De Bono Conjugali,</hi> thus; <hi>Nuptias Chriſtia<g ref="char:EOLhyphen"/>norum cum una tantum Vxore, Sacramentum eſſe Vni<g ref="char:EOLhyphen"/>tatis Eccleſiae Chriſto ſubjectae:</hi> And againſt Divorce in his Book <hi>De Nuptiis &amp; Concupiſcentia; Quoni<g ref="char:EOLhyphen"/>am ſanè non tantùm foecunditas, cujus fructus in prole eſt, nec tantùm pudicitia, cujus vinculum est fides, verumetiam quoddam Sacramentum Nuptiarum com<g ref="char:EOLhyphen"/>mendatur fidelibus conjugatis; unde dicit Apoſtolus, Viri diligite uxores veſtras ſicut Chriſtus dilexit Ec<g ref="char:EOLhyphen"/>cleſiam. Huius proculdubio Sacramenti res eſt, ut mas &amp; foemina connubio copulati, quamdiu vivunt inſeparabiliter perſeverent, nec liceat excepta cauſa fornicationis à coniuge coniugem dirimi. Hoc enim cuſtoditur in Chriſto &amp; Eccleſia, ut vivens cum vi<g ref="char:EOLhyphen"/>vente in aeternum nullo</hi> DIVORTIO <hi>ſeparetur.</hi> And it is very obſervable, that this was the onely Argument of Moment which <hi>Tertullian</hi> had, that prevailed with him to hold all Second Marriages
+<pb n="35" facs="tcp:181308:19"/>unlawfull, Becauſe Chriſt is but once married to his Church: So he in his Book <hi>De Exhortatione Ca<g ref="char:EOLhyphen"/>stitatis, Cùm Apoſtolus in Eccleſiam &amp; Chriſtum in<g ref="char:EOLhyphen"/>terpretatur, Erunt duo in unam carnem: ſecundùm ſpi<g ref="char:EOLhyphen"/>rituales nuptias Eccleſiae &amp; Chriſti, (unus enim Chri<g ref="char:EOLhyphen"/>ſtus, &amp; una eius Eccleſia) agnoſcere debemus dupli<g ref="char:EOLhyphen"/>catam &amp; exaggeratam eſſe nobis unius Matrimonii Legem, tam ſecundùm generis fundamentum, quàm ſecundùm Chriſti Sacramentum. De uno Ma<g ref="char:EOLhyphen"/>trimonio cenſemur utrobique, &amp; carnaliter in A<g ref="char:EOLhyphen"/>dam, &amp; ſpiritaliter in Christo;</hi> and often elſe<g ref="char:EOLhyphen"/>where. Although this opinion be directly con<g ref="char:EOLhyphen"/>trary to the Apoſtles Rule ſomewhere given; and if <hi>Tertullians</hi> Rigour had not miſ-led him, hee might eaſily have ſeen here a ſufficient ground of difference between theſe two, in that Chriſt and the Church alwayes live together.</p>
+            <p>The Reaſon, why this Type is not yet abo<g ref="char:EOLhyphen"/>liſhed, but ſtill to continue; is becauſe the Antitype thereof, which is the <hi>marriage of the Lamb</hi> (<hi>Rev.</hi> 21.) is not yet conſummated.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
